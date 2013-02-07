@@ -1,4 +1,6 @@
-# This fork is a proposal to move to tools/build.js part of the build process hardcoded in volofile
+## proposal
+
+to move to tools/build.js part of the build process hardcoded in volofile
 
 To use it
 
